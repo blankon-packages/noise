@@ -8,15 +8,15 @@ msgstr ""
 "Project-Id-Version: noise\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2014-11-03 12:13-0600\n"
-"PO-Revision-Date: 2015-03-06 12:59+0000\n"
+"PO-Revision-Date: 2015-04-02 12:24+0000\n"
 "Last-Translator: Indrit Bashkimi <indrit.bashkimi@gmail.com>\n"
 "Language-Team: Albanian <sq@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2015-03-19 05:28+0000\n"
-"X-Generator: Launchpad (build 17403)\n"
+"X-Launchpad-Export-Date: 2015-04-03 05:40+0000\n"
+"X-Generator: Launchpad (build 17413)\n"
 
 #. / Used for unknown titles, artists, or album names.
 #: ../core/Media.vala:34
@@ -212,11 +212,11 @@ msgstr "Ekporto listën e riprodhimit"
 
 #: ../core/Utils/PlaylistsUtils.vala:282 ../core/Utils/PlaylistsUtils.vala:377
 msgid "MPEG Version 3.0 Extended (*.m3u)"
-msgstr ""
+msgstr "MPEG Version 3.0 Extended (*.m3u)"
 
 #: ../core/Utils/PlaylistsUtils.vala:287 ../core/Utils/PlaylistsUtils.vala:382
 msgid "Shoutcast Playlist Version 2.0 (*.pls)"
-msgstr ""
+msgstr "Shoutcast Playlist Version 2.0 (*.pls)"
 
 #: ../core/Utils/PlaylistsUtils.vala:362
 msgid "Playlist"
@@ -253,7 +253,7 @@ msgstr "Përreth Noise"
 
 #: ../src/Noise.vala:42
 msgid "About Music"
-msgstr ""
+msgstr "Rreth Muzika"
 
 #: ../src/LibraryWindow.vala:250
 msgid "Import to Library…"
@@ -399,20 +399,20 @@ msgstr "Kompozitori"
 #: ../src/Dialogs/MediaEditor.vala:199 ../src/Dialogs/MediaEditor.vala:466
 #: ../src/Dialogs/SmartPlaylistEditor.vala:269
 msgid "Grouping"
-msgstr ""
+msgstr "Grupimi"
 
 #: ../src/Dialogs/MediaEditor.vala:200
 #: ../src/Dialogs/SmartPlaylistEditor.vala:264
 msgid "Comment"
-msgstr "Koment"
+msgstr "Komenti"
 
 #: ../src/Dialogs/MediaEditor.vala:201
 msgid "Track"
-msgstr ""
+msgstr "Kënga"
 
 #: ../src/Dialogs/MediaEditor.vala:202
 msgid "Disc"
-msgstr "Disk"
+msgstr "Disku"
 
 #: ../src/Dialogs/MediaEditor.vala:203
 #: ../src/Dialogs/SmartPlaylistEditor.vala:276
@@ -466,7 +466,7 @@ msgstr "Kopjo skedarët e importuar në librari:"
 
 #: ../src/Dialogs/PreferencesWindow.vala:163
 msgid "Desktop Integration:"
-msgstr ""
+msgstr "Integrimi me fushën e punës:"
 
 #: ../src/Dialogs/PreferencesWindow.vala:169
 msgid "Notifications:"
@@ -474,7 +474,7 @@ msgstr "Njoftimet:"
 
 #: ../src/Dialogs/PreferencesWindow.vala:174
 msgid "Continue playback when closed:"
-msgstr ""
+msgstr "Vazhdo riprodhimin edhe pas mbylljes:"
 
 #: ../src/Dialogs/InstallGstreamerPluginsDialog.vala:51
 msgid "Would you like to install the %s plugin?\n"
@@ -618,11 +618,11 @@ msgstr ""
 
 #: ../src/Dialogs/SyncWarningDialog.vala:58
 msgid "Continue Syncing"
-msgstr ""
+msgstr "Vazhdo sinkronizimin"
 
 #: ../src/Dialogs/SyncWarningDialog.vala:59
 msgid "Stop Syncing"
-msgstr ""
+msgstr "Ndalo sinkronizimin"
 
 #: ../src/Dialogs/SyncWarningDialog.vala:66
 msgid ""
@@ -632,15 +632,15 @@ msgstr ""
 
 #: ../src/Dialogs/SyncWarningDialog.vala:72
 msgid "Sync will remove %i items from %s"
-msgstr ""
+msgstr "Sinkronizimi do të heqë %i elemente nga %s"
 
 #: ../src/Dialogs/SyncWarningDialog.vala:75
 msgid "Sync will remove 1 item from %s"
-msgstr ""
+msgstr "Sinkronizimi do të heqë 1 element nga %s"
 
 #: ../src/Dialogs/SmartPlaylistEditor.vala:38
 msgid "Smart Playlist Editor"
-msgstr ""
+msgstr "Përpunues liste inteligjente"
 
 #: ../src/Dialogs/SmartPlaylistEditor.vala:49
 #: ../src/Dialogs/SmartPlaylistEditor.vala:57
@@ -667,11 +667,11 @@ msgstr "Përputhet me"
 
 #: ../src/Dialogs/SmartPlaylistEditor.vala:71
 msgid "any"
-msgstr ""
+msgstr "ndonjërën"
 
 #: ../src/Dialogs/SmartPlaylistEditor.vala:72
 msgid "all"
-msgstr ""
+msgstr "të gjitha"
 
 #: ../src/Dialogs/SmartPlaylistEditor.vala:77
 msgid "of the following:"
@@ -700,15 +700,15 @@ msgstr ""
 
 #: ../src/Dialogs/SmartPlaylistEditor.vala:266
 msgid "Date Added"
-msgstr ""
+msgstr "Data e shtimit"
 
 #: ../src/Dialogs/SmartPlaylistEditor.vala:267
 msgid "Date Released"
-msgstr ""
+msgstr "Data e lëshimit"
 
 #: ../src/Dialogs/SmartPlaylistEditor.vala:270
 msgid "Last Played"
-msgstr ""
+msgstr "Riprodhimi i fundit"
 
 #: ../src/Dialogs/SmartPlaylistEditor.vala:271
 #: ../src/Dialogs/SmartPlaylistEditor.vala:401
@@ -717,15 +717,15 @@ msgstr "Zgjatja"
 
 #: ../src/Dialogs/SmartPlaylistEditor.vala:272
 msgid "Playcount"
-msgstr ""
+msgstr "Numërimi i riprodhimeve"
 
 #: ../src/Dialogs/SmartPlaylistEditor.vala:274
 msgid "Skipcount"
-msgstr ""
+msgstr "Numërimi i kalimeve"
 
 #: ../src/Dialogs/SmartPlaylistEditor.vala:337
 msgid "is"
-msgstr ""
+msgstr "është"
 
 #: ../src/Dialogs/SmartPlaylistEditor.vala:338
 msgid "contains"
@@ -742,11 +742,11 @@ msgstr "është saktësisht"
 
 #: ../src/Dialogs/SmartPlaylistEditor.vala:365
 msgid "is at most"
-msgstr ""
+msgstr "është më të shumtën"
 
 #: ../src/Dialogs/SmartPlaylistEditor.vala:366
 msgid "is at least"
-msgstr ""
+msgstr "është të paktën"
 
 #: ../src/Dialogs/SmartPlaylistEditor.vala:378
 msgid "is within"
@@ -754,7 +754,7 @@ msgstr ""
 
 #: ../src/Dialogs/SmartPlaylistEditor.vala:379
 msgid "is before"
-msgstr ""
+msgstr "është përpara"
 
 #: ../src/Dialogs/SmartPlaylistEditor.vala:402
 msgid "seconds"
@@ -762,11 +762,11 @@ msgstr "sekonda"
 
 #: ../src/Dialogs/SmartPlaylistEditor.vala:405
 msgid "days ago"
-msgstr ""
+msgstr "ditë më parë"
 
 #: ../src/Dialogs/SmartPlaylistEditor.vala:408
 msgid "kbps"
-msgstr ""
+msgstr "kbps"
 
 #: ../src/Dialogs/NotImportedWindow.vala:58
 #: ../src/Dialogs/NotImportedWindow.vala:70
@@ -776,6 +776,7 @@ msgstr ""
 #: ../src/Dialogs/NotImportedWindow.vala:59
 msgid "%s was unable to import %d items. The files may be damaged."
 msgstr ""
+"%s nuk mundi të importonte %d elementet. Skedarët mund të jenë të dëmtuar."
 
 #: ../src/Dialogs/NotImportedWindow.vala:60
 msgid "Move all corrupted files to trash"
@@ -796,7 +797,7 @@ msgstr ""
 
 #: ../src/Dialogs/NotImportedWindow.vala:92
 msgid "File Location"
-msgstr ""
+msgstr "Vendndodhja e skedarëve"
 
 #: ../src/Dialogs/NotImportedWindow.vala:119
 msgid "Select individual files to move to trash:"
@@ -842,7 +843,7 @@ msgstr "Ndrysho dosjen e muzikës"
 
 #: ../src/Views/Wrappers/MusicViewWrapper.vala:59
 msgid "Load music from a folder, a network or an external disk."
-msgstr ""
+msgstr "Ngarko muzikë nga një dosje, një rrjet ose nga një disk i jashtëm."
 
 #: ../src/Views/Wrappers/MusicViewWrapper.vala:104
 #: ../src/Views/Wrappers/MusicViewWrapper.vala:120
@@ -852,7 +853,7 @@ msgstr ""
 #: ../src/Views/Wrappers/MusicViewWrapper.vala:104
 #: ../src/Views/Wrappers/MusicViewWrapper.vala:120
 msgid "Import all your Music from %s into your library."
-msgstr ""
+msgstr "Importo të gjithë muzikën tënde nga %s në librarinë tënde."
 
 #: ../src/Views/Wrappers/MusicViewWrapper.vala:130
 msgid "Select Music Folder"
@@ -879,7 +880,7 @@ msgstr ""
 
 #: ../src/Views/Wrappers/PlaylistViewWrapper.vala:104
 msgid "Edit Smart Playlist"
-msgstr ""
+msgstr "Ndrysho listën inteligjente"
 
 #: ../src/Views/Wrappers/PlaylistViewWrapper.vala:116
 msgid ""
@@ -899,13 +900,13 @@ msgstr "Duke përditësuar listën e riprodhimit. Ju lutem prisni."
 
 #: ../src/Views/GridView/GridView.vala:54
 msgid "No Albums Found."
-msgstr ""
+msgstr "Nuk u gjet asnjë album."
 
 #: ../src/Views/GridView/GridView.vala:146
 msgid "%u album"
 msgid_plural "%u albums"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%u album"
+msgstr[1] "%u albume"
 
 #: ../src/Views/GridView/PopupListView.vala:61
 msgid "Set new album cover"
@@ -918,19 +919,19 @@ msgstr ""
 
 #: ../src/Views/GridView/PopupListView.vala:261
 msgid "_Cancel"
-msgstr ""
+msgstr "_Anulo"
 
 #: ../src/Views/GridView/PopupListView.vala:261
 msgid "_Open"
-msgstr ""
+msgstr "_Hap"
 
 #: ../src/Views/GridView/PopupListView.vala:264
 msgid "Image files"
-msgstr ""
+msgstr "Skedarë figure"
 
 #: ../src/Views/DeviceView.vala:39
 msgid "Cancelling…"
-msgstr ""
+msgstr "Duke e anuluar…"
 
 #: ../src/Views/DeviceView.vala:39
 msgid "Device operation has been cancelled and will stop after this media."
@@ -938,7 +939,7 @@ msgstr ""
 
 #: ../src/Views/DeviceView.vala:60
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: ../src/Views/DeviceView.vala:101
 msgid "No External Songs"
@@ -954,7 +955,7 @@ msgstr ""
 msgctxt ""
 "Format used on statusbar: $description, $total_duration, $total_file_size"
 msgid "%s, %s, %s"
-msgstr ""
+msgstr "%s, %s, %s"
 
 #: ../src/Views/ListView/ListView.vala:86
 msgid "No Songs Found."
@@ -963,8 +964,8 @@ msgstr "Nuk u gjet asnjë këngë."
 #: ../src/Views/ListView/ListView.vala:366
 msgid "%i track"
 msgid_plural "%i tracks"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%i këngë"
+msgstr[1] "%i këngë"
 
 #: ../src/Views/ListView/ListView.vala:368
 msgid "%u song"
@@ -1027,7 +1028,7 @@ msgstr "Asnjë vit"
 
 #: ../src/Views/ListView/ColumnBrowser/BrowserColumnModel.vala:246
 msgid "All Ratings"
-msgstr "Të gjithë vlerësimet"
+msgstr "Të gjitha vlerësimet"
 
 #: ../src/Views/ListView/ColumnBrowser/BrowserColumnModel.vala:248
 msgid "No Ratings"
@@ -1035,15 +1036,15 @@ msgstr "Asnjë vlerësim"
 
 #: ../src/Views/ListView/ColumnBrowser/BrowserColumnModel.vala:253
 msgid "All Groupings"
-msgstr ""
+msgstr "Të gjitha grupimet"
 
 #: ../src/Views/ListView/ColumnBrowser/BrowserColumnModel.vala:255
 msgid "All %i Groupings"
-msgstr ""
+msgstr "Të gjitha %i grupimet"
 
 #: ../src/Views/ListView/ColumnBrowser/BrowserColumnModel.vala:257
 msgid "No Groupings"
-msgstr ""
+msgstr "Asnjë grupim"
 
 #: ../src/Views/ListView/ColumnBrowser/BrowserColumnModel.vala:262
 msgid "All Composers"
@@ -1051,7 +1052,7 @@ msgstr "Të gjithë kompozitorët"
 
 #: ../src/Views/ListView/ColumnBrowser/BrowserColumnModel.vala:264
 msgid "All %i Composers"
-msgstr ""
+msgstr "Të gjithë %i Kompozitorët"
 
 #: ../src/Views/ListView/ColumnBrowser/BrowserColumnModel.vala:266
 msgid "No Composers"
@@ -1077,8 +1078,8 @@ msgstr ""
 #: ../src/Views/ListView/ColumnBrowser/ColumnBrowser.vala:403
 msgid "%i Star"
 msgid_plural "%i Stars"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%i Yll"
+msgstr[1] "%i Yje"
 
 #: ../src/Views/ListView/ColumnBrowser/BrowserColumn.vala:53
 msgid "Genres"
@@ -1106,7 +1107,7 @@ msgstr "Kompozitorët"
 
 #: ../src/Views/ListView/ColumnBrowser/BrowserColumn.vala:65
 msgid "Groupings"
-msgstr ""
+msgstr "Grupimet"
 
 #: ../src/Views/ListView/Lists/CellDataFunctionHelper.vala:226
 msgid "%i kbps"
@@ -1131,7 +1132,7 @@ msgstr "Hiq nga pajisja"
 
 #: ../src/Views/ListView/Lists/MusicListView.vala:121
 msgid "Scroll to Current Song"
-msgstr ""
+msgstr "Shko tek kënga aktuale"
 
 #: ../src/Views/ListView/Lists/MusicListView.vala:124
 msgid "Edit Song Info"
@@ -1139,7 +1140,7 @@ msgstr "Ndrysho informacionet e këngës"
 
 #: ../src/Views/ListView/Lists/MusicListView.vala:125
 msgid "Show in File Browser"
-msgstr ""
+msgstr "Shfaqe në shfletuesin e skedarëve"
 
 #: ../src/Views/ListView/Lists/MusicListView.vala:126
 msgid "Other actions"
@@ -1190,7 +1191,7 @@ msgstr ""
 
 #: ../src/Views/ListView/Lists/GenericList.vala:116
 msgid "Autosize Columns"
-msgstr ""
+msgstr "Rregullo gjerësinë e kolonave"
 
 #: ../src/Views/ListView/Lists/GenericList.vala:123
 msgid "Display Album Art"
@@ -1204,7 +1205,7 @@ msgstr "#"
 #: ../src/Views/ListView/Lists/ListColumn.vala:61
 msgctxt "List column title"
 msgid "Track"
-msgstr ""
+msgstr "Kënga"
 
 #: ../src/Views/ListView/Lists/ListColumn.vala:64
 msgctxt "List column title"
@@ -1249,7 +1250,7 @@ msgstr "Viti"
 #: ../src/Views/ListView/Lists/ListColumn.vala:88
 msgctxt "List column title"
 msgid "Grouping"
-msgstr ""
+msgstr "Grupimi"
 
 #: ../src/Views/ListView/Lists/ListColumn.vala:91
 msgctxt "List column title"
@@ -1259,17 +1260,17 @@ msgstr ""
 #: ../src/Views/ListView/Lists/ListColumn.vala:94
 msgctxt "List column title"
 msgid "Rating"
-msgstr ""
+msgstr "Vlerësimet"
 
 #: ../src/Views/ListView/Lists/ListColumn.vala:97
 msgctxt "List column title"
 msgid "Plays"
-msgstr ""
+msgstr "Riprodhimet"
 
 #: ../src/Views/ListView/Lists/ListColumn.vala:100
 msgctxt "List column title"
 msgid "Skips"
-msgstr ""
+msgstr "Kalimet"
 
 #: ../src/Views/ListView/Lists/ListColumn.vala:103
 msgctxt "List column title"
@@ -1289,7 +1290,7 @@ msgstr "BPM"
 #: ../src/Views/ListView/Lists/ListColumn.vala:112
 msgctxt "List column title (file location)"
 msgid "Location"
-msgstr ""
+msgstr "Vendndodhja"
 
 #: ../src/Views/ListView/Lists/ListColumn.vala:115
 msgctxt "List column title"
@@ -1310,7 +1311,7 @@ msgstr ""
 
 #: ../src/Views/DeviceSummaryWidget.vala:94
 msgid "Sync:"
-msgstr ""
+msgstr "Sinkronizo:"
 
 #: ../src/Views/DeviceSummaryWidget.vala:106
 msgid "Other Files"
@@ -1322,26 +1323,30 @@ msgstr ""
 
 #: ../src/Views/DeviceSummaryWidget.vala:269
 msgid "All Music"
-msgstr ""
+msgstr "E gjithë muzika"
 
 #: ../src/Views/DeviceSummaryWidget.vala:322
 msgid "Sync Failed"
-msgstr ""
+msgstr "Sinkronizimi dështoi"
 
 #: ../src/Views/DeviceSummaryWidget.vala:322
 msgid ""
 "The playlist named %s is used to sync device %s, but could not be found."
 msgstr ""
+"Lista e riprodhimit me emër %s është e përdorur për të sinkronizuar pajisjen "
+"%s, por nuk mund gjendet."
 
 #: ../src/Views/DeviceSummaryWidget.vala:334
 #: ../src/Views/DeviceSummaryWidget.vala:337
 msgid "Cannot Sync"
-msgstr ""
+msgstr "Nuk mund të sinkronizojë"
 
 #: ../src/Views/DeviceSummaryWidget.vala:334
 msgid ""
 "Cannot sync device with selected sync settings. Not enough space on disk"
 msgstr ""
+"Nuk mund të sinkronizojë pajisjen me parametrat e përzgjedhura të "
+"sinkronizimit. S'ka hapësirë të mjaftueshme në disk."
 
 #: ../src/Views/DeviceSummaryWidget.vala:337
 msgid "Device is already doing an operation."
@@ -1383,15 +1388,15 @@ msgstr "Importimi mbaroi"
 
 #: ../src/FileOperator.vala:347
 msgid "%s has imported your library."
-msgstr ""
+msgstr "%s ka importuar librarinë tënde."
 
 #: ../src/FileOperator.vala:362
 msgid "<b>Copying</b> files to <b>Music Folder</b>…"
-msgstr ""
+msgstr "<b>Duke kopjuar</b> skedarët në <b>Dosjen e muzikës</b>…"
 
 #: ../src/LocalLibrary.vala:164
 msgid "Importing music from %s…"
-msgstr ""
+msgstr "Duke importuar muzikë nga %s…"
 
 #: ../src/LocalLibrary.vala:201
 msgid "Adding files to library…"
@@ -1399,7 +1404,7 @@ msgstr "Duke shtuar skedarët librarisë"
 
 #: ../src/LocalLibrary.vala:252
 msgid "All music files are already in your library"
-msgstr ""
+msgstr "Të gjithë skedarët e muzikës janë tashmë në librarinë tënde"
 
 #: ../src/LocalLibrary.vala:252
 msgid "No files were imported."
@@ -1428,7 +1433,7 @@ msgstr "Ndrysho..."
 
 #: ../src/Widgets/SourceListView.vala:88
 msgid "Save as Playlist"
-msgstr ""
+msgstr "Ruaje si Listë riprodhimi"
 
 #: ../src/Widgets/SourceListView.vala:156
 msgid "Eject"
@@ -1442,11 +1447,11 @@ msgstr "Listë riprodhimi e re"
 #: ../src/Widgets/SourceListView.vala:166
 #: ../src/Widgets/SourceListView.vala:202
 msgid "New Smart Playlist"
-msgstr ""
+msgstr "Listë inteligjente e re"
 
 #: ../src/Widgets/SourceListView.vala:171 ../src/Widgets/SpaceWidget.vala:237
 msgid "Sync"
-msgstr ""
+msgstr "Sinkronizo"
 
 #: ../src/Widgets/SourceListView.vala:203
 msgid "Import Playlists"
@@ -1474,7 +1479,7 @@ msgstr ""
 
 #: ../src/Widgets/SpaceWidget.vala:266
 msgid "Free"
-msgstr ""
+msgstr "Falas"
 
 #: ../src/Widgets/SpaceWidget.vala:383
 msgid "Using %s of %s (%.2f%)"
@@ -1502,15 +1507,15 @@ msgstr ""
 
 #: ../src/Widgets/ViewSelector.vala:68
 msgid "View as Albums"
-msgstr ""
+msgstr "Paraqite si Albumet"
 
 #: ../src/Widgets/ViewSelector.vala:72
 msgid "View as List"
-msgstr ""
+msgstr "Paraqite si Listë"
 
 #: ../src/Widgets/ViewSelector.vala:76
 msgid "View in Columns"
-msgstr ""
+msgstr "Paraqite në Kolona"
 
 #: ../src/Widgets/StatusBar.vala:68 ../src/Widgets/StatusBar.vala:101
 msgid "Off"
@@ -1518,7 +1523,7 @@ msgstr ""
 
 #: ../src/Widgets/StatusBar.vala:68
 msgid "Enable Repeat"
-msgstr ""
+msgstr "Aktivizo përsëritjen"
 
 #: ../src/Widgets/StatusBar.vala:69
 msgid "Song"
@@ -1542,15 +1547,15 @@ msgstr ""
 
 #: ../src/Widgets/StatusBar.vala:72
 msgid "Disable Repeat"
-msgstr ""
+msgstr "Çaktivizo përsëritjen"
 
 #: ../src/Widgets/StatusBar.vala:101
 msgid "Enable Shuffle"
-msgstr ""
+msgstr "Aktivizo përzierjen"
 
 #: ../src/Widgets/StatusBar.vala:102
 msgid "Disable Shuffle"
-msgstr ""
+msgstr "Çaktivizo përzierjen"
 
 #: ../src/Widgets/StatusBar.vala:135 ../src/Widgets/StatusBar.vala:146
 msgid "Add Playlist"
@@ -1558,7 +1563,7 @@ msgstr "Shto listë riprodhimi"
 
 #: ../src/Widgets/StatusBar.vala:147
 msgid "Add Smart Playlist"
-msgstr ""
+msgstr "Shto listë inteligjente"
 
 #: ../src/Widgets/StatusBar.vala:197
 msgid "Hide"
@@ -1578,7 +1583,7 @@ msgstr ""
 
 #: ../src/Objects/LyricFetcher.vala:155
 msgid "Lyrics fetched from www.lyricsmania.com"
-msgstr ""
+msgstr "Tekstet e marra nga www.lyricsmania.com"
 
 #: ../src/Objects/TrackInfo.vala:25
 msgid "Unknown Track"
@@ -1598,7 +1603,7 @@ msgstr ""
 
 #: ../plugins/LastFM/SimilarMediaView.vala:45
 msgid "Similar Media"
-msgstr ""
+msgstr "Këngë të ngjashme"
 
 #: ../plugins/LastFM/LastFM.vala:71
 msgid "No similar songs found"
@@ -1624,7 +1629,7 @@ msgstr "Jepi lejen programit %s"
 
 #: ../plugins/LastFM/PreferencesSection.vala:31
 msgid "Unsuccessful. Click To Try Again."
-msgstr ""
+msgstr "Pa sukses. Kliko për të provuar përsëri."
 
 #: ../plugins/LastFM/PreferencesSection.vala:32
 msgid "Scrobbling Already Enabled"
@@ -1632,7 +1637,7 @@ msgstr ""
 
 #: ../plugins/LastFM/PreferencesSection.vala:33
 msgid "Success!"
-msgstr ""
+msgstr "Sukses!"
 
 #: ../plugins/LastFM/PreferencesSection.vala:34
 msgid "Complete Login"
@@ -1671,7 +1676,7 @@ msgstr "Kjo pajisje nuk përmban ndonjë këngë."
 #: ../plugins/Devices/iPod/iPodLibrary.vala:148
 #: ../plugins/Devices/AudioPlayers/AudioPlayerLibrary.vala:140
 msgid "Adding <b>$NAME</b> by <b>$ARTIST</b> to $DEVICE"
-msgstr ""
+msgstr "Duke shtuar <b>$NAME</b> të <b>$ARTIST</b> në $DEVICE"
 
 #: ../plugins/Devices/iPod/iPodLibrary.vala:196
 #: ../plugins/Devices/iPod/iPodLibrary.vala:584
@@ -1685,14 +1690,14 @@ msgstr ""
 #: ../plugins/Devices/iPod/iPodLibrary.vala:637
 #: ../plugins/Devices/AudioPlayers/AudioPlayerLibrary.vala:256
 msgid "Finishing sync process…"
-msgstr ""
+msgstr "Duke plotësuar procesin e sinkronizimit…"
 
 #: ../plugins/Devices/iPod/iPodLibrary.vala:232
 #: ../plugins/Devices/iPod/iPodLibrary.vala:392
 #: ../plugins/Devices/iPod/iPodLibrary.vala:657
 #: ../plugins/Devices/AudioPlayers/AudioPlayerLibrary.vala:259
 msgid "Cancelling Sync…"
-msgstr ""
+msgstr "Duke anuluar sinkronizimin…"
 
 #: ../plugins/Devices/iPod/iPodLibrary.vala:342
 #: ../plugins/Devices/AudioPlayers/AudioPlayerLibrary.vala:393
@@ -1710,6 +1715,7 @@ msgstr ""
 #: ../plugins/Devices/AudioPlayers/AudioPlayerLibrary.vala:264
 msgid "There is not enough space on Device to complete the Sync…"
 msgstr ""
+"Nuk ka hapësirë të mjaftueshme në pajisje për të plotësuar sinkronizimin…"
 
 #: ../plugins/Devices/AudioPlayers/AudioPlayerDevice.vala:161
 msgid "Android Phone"
@@ -1762,7 +1768,7 @@ msgstr ""
 
 #: ../plugins/Devices/CDRom/CDRomDevice.vala:362
 msgid "Importing track %i: %s"
-msgstr ""
+msgstr "Duke importuar këngën %i: %s"
 
 #: ../plugins/Devices/CDRom/CDRomDevice.vala:367
 msgid "CD import will be <b>cancelled</b> after current import."
@@ -1770,4 +1776,4 @@ msgstr ""
 
 #: ../plugins/Devices/CDRom/CDRomDevice.vala:386
 msgid "An error occured during the Import of this CD"
-msgstr ""
+msgstr "Ndodhi një gabim gjatë importimit të këtij CD."

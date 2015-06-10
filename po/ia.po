@@ -1,27 +1,27 @@
-# Thai translation for noise
-# Copyright (c) 2013 Rosetta Contributors and Canonical Ltd 2013
+# Interlingua translation for noise
+# Copyright (c) 2015 Rosetta Contributors and Canonical Ltd 2015
 # This file is distributed under the same license as the noise package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2013.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2015.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: noise\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2014-11-03 12:13-0600\n"
-"PO-Revision-Date: 2013-04-07 14:00+0000\n"
-"Last-Translator: siwakorn <ibeerz.s@gmail.com>\n"
-"Language-Team: Thai <th@li.org>\n"
+"PO-Revision-Date: 2015-04-08 21:34+0000\n"
+"Last-Translator: Tea Coba <verdaludejo@outlook.com>\n"
+"Language-Team: Interlingua <ia@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Launchpad-Export-Date: 2015-04-01 05:25+0000\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Launchpad-Export-Date: 2015-04-09 05:36+0000\n"
 "X-Generator: Launchpad (build 17413)\n"
 
 #. / Used for unknown titles, artists, or album names.
 #: ../core/Media.vala:34
 msgid "Unknown"
-msgstr "ไม่รู้จัก"
+msgstr ""
 
 #. / Please keep $NAME and $ALBUM, they will be replaced by their values
 #: ../core/Media.vala:177
@@ -42,31 +42,31 @@ msgstr ""
 #: ../src/Dialogs/InstallGstreamerPluginsDialog.vala:70
 #: ../src/Dialogs/FileNotFoundDialog.vala:94
 msgid "Cancel"
-msgstr ""
+msgstr "Annullar"
 
 #: ../core/Resources.vala:98 ../src/Views/GridView/PopupListView.vala:260
 msgid "Open"
-msgstr ""
+msgstr "Aperir"
 
 #: ../core/Resources.vala:99
 msgid "Save"
-msgstr ""
+msgstr "Salveguardar"
 
 #: ../core/GStreamer/Equalizer.vala:76
 msgid "Flat"
-msgstr ""
+msgstr "Plan"
 
 #: ../core/GStreamer/Equalizer.vala:77
 msgid "Classical"
-msgstr ""
+msgstr "Classic"
 
 #: ../core/GStreamer/Equalizer.vala:78
 msgid "Club"
-msgstr ""
+msgstr "Club"
 
 #: ../core/GStreamer/Equalizer.vala:79
 msgid "Dance"
-msgstr ""
+msgstr "Dance"
 
 #: ../core/GStreamer/Equalizer.vala:80
 msgid "Full Bass"
@@ -98,15 +98,15 @@ msgstr ""
 
 #: ../core/GStreamer/Equalizer.vala:87
 msgid "Pop"
-msgstr ""
+msgstr "Pop"
 
 #: ../core/GStreamer/Equalizer.vala:88
 msgid "Reggae"
-msgstr ""
+msgstr "Reggae"
 
 #: ../core/GStreamer/Equalizer.vala:89
 msgid "Rock"
-msgstr ""
+msgstr "Rock"
 
 #: ../core/GStreamer/Equalizer.vala:90
 msgid "Soft"
@@ -114,7 +114,7 @@ msgstr ""
 
 #: ../core/GStreamer/Equalizer.vala:91
 msgid "Ska"
-msgstr ""
+msgstr "Ska"
 
 #: ../core/GStreamer/Equalizer.vala:92
 msgid "Soft Rock"
@@ -122,11 +122,11 @@ msgstr ""
 
 #: ../core/GStreamer/Equalizer.vala:93
 msgid "Techno"
-msgstr ""
+msgstr "Techno"
 
 #: ../core/LibrariesManager.vala:140
 msgid "Importing <b>$NAME</b> by <b>$ARTIST</b> to library…"
-msgstr "นำเข้า <b>$NAME</b> โดย <b>$ARTIST</b> เข้าสู่รายการ…"
+msgstr ""
 
 #: ../core/Utils/TimeUtils.vala:44
 msgid "%d second"
@@ -143,7 +143,8 @@ msgstr[1] ""
 #: ../core/Utils/TimeUtils.vala:56
 msgid "%u second"
 msgid_plural "%u seconds"
-msgstr[0] "%u วินาที"
+msgstr[0] ""
+msgstr[1] ""
 
 #. / Minutes and seconds
 #: ../core/Utils/TimeUtils.vala:58
@@ -223,7 +224,7 @@ msgstr ""
 
 #: ../core/Utils/PlaylistsUtils.vala:368
 msgid "Import %s"
-msgstr "นำเข้า %s"
+msgstr ""
 
 #: ../core/Utils/PlaylistsUtils.vala:402
 msgid "Unrecognized playlist file. Import failed."
